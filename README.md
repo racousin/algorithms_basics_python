@@ -10,9 +10,9 @@ Some famous algorithms written in simple way, in order to keep in mind how they 
 
 - **fisher discriminant analysis** ([notebook](https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/fisher_discriminant_analysis.ipynb)) Implementation of fisher discriminant analysis and theoretical perspective.
 
-- **logistic_regression** ([notebook](https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/logistic_regression.ipynb)) Implementation of fisher logistic regression and theoretical perspective.
+- **logistic regression** ([notebook](https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/logistic_regression.ipynb)) Implementation of fisher logistic regression and theoretical perspective.
 
-- **adaboost_classifier** ([notebook](https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/adaboost_classifier.ipynb)) Implementation of fisher adaboost classifier and theoretical perspective.
+- **adaboost classifier** ([notebook](https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/adaboost_classifier.ipynb)) Implementation of fisher adaboost classifier and theoretical perspective.
 
 
 ## Installation
