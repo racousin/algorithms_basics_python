@@ -22,4 +22,19 @@ To download all the algorithms, simply clone this repository:
 https://github.com/racousin/algorithms_basics_python.git
 ```
 
-You need python3 and jupyter-notebook.
+To run them, you need :
+
+python3
+```
+sudo apt-get install python3
+```
+
+jupyter-notebook
+```
+sudo pip3 install jupyter
+```
+
+and useful dependencies
+```
+sudo pip3 install jupyter numpy scipy matplotlib scikit-learn
+```
