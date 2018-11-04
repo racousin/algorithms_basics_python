@@ -4,4 +4,12 @@ Some famous algorithms written in simple way, in order to keep in mind how they 
 
 #### Binary classification
 
-- **linear discriminant analysis** ([notebook](https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/linear_discriminant_analysis.ipynb) Implementation of linear discriminant analysis
+- **linear discriminant analysis** ([notebook])(https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/linear_discriminant_analysis.ipynb) Implementation of linear discriminant analysis from scratch and theoretical perspective.
+
+- **quadratic discriminant analysis** ([notebook])(https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/quadratic_discriminant_analysis.ipynb) Implementation of quadratic discriminant analysis from scratch and theoretical perspective.
+
+- **fisher discriminant analysis** ([notebook])(https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/fisher_discriminant_analysis.ipynb) Implementation of fisher discriminant analysis from scratch and theoretical perspective.
+
+- **logistic_regression** ([notebook])(https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/logistic_regression.ipynb) Implementation of fisher logistic regression from scratch and theoretical perspective.
+
+- **adaboost_classifier** ([notebook])(https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/adaboost_classifier.ipynb) Implementation of fisher adaboost classifier from scratch and theoretical perspective.
