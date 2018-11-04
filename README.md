@@ -1,4 +1,4 @@
-# Algorithms_basics_python
+# Algorithms basics python
 
 Some famous algorithms written in simple way, in order to keep in mind how they are working and in which conditions they will be efficient.
 
