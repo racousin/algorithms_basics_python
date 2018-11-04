@@ -13,3 +13,13 @@ Some famous algorithms written in simple way, in order to keep in mind how they 
 - **logistic_regression** ([notebook])(https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/logistic_regression.ipynb) Implementation of fisher logistic regression from scratch and theoretical perspective.
 
 - **adaboost_classifier** ([notebook])(https://github.com/racousin/algorithms_basics_python/blob/master/binary_classification/adaboost_classifier.ipynb) Implementation of fisher adaboost classifier from scratch and theoretical perspective.
+
+
+## Installation
+
+To download all the algorithms, simply clone this repository:
+```
+https://github.com/racousin/algorithms_basics_python.git
+```
+
+You need python3 and jupyter-notebook.
